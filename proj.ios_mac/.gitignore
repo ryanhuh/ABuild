@@ -1,0 +1,8 @@
+bin\
+Abuild.build\
+Abuild.xcodeproj\
+CMakeFiles\
+CMakeScripts\
+engine\
+lib\
+
