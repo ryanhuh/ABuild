@@ -1,8 +1,11 @@
-bin\
-Abuild.build\
-Abuild.xcodeproj\
-CMakeFiles\
-CMakeScripts\
-engine\
-lib\
+bin/
+Abuild.build/
+Abuild.xcodeproj/
+CMakeFiles/
+CMakeScripts/
+engine/
+lib/
+CMakeCache.txt
+cmake_install.cmake
+ios/CMakeCache.txt
 
